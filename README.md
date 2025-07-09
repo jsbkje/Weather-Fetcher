@@ -66,6 +66,7 @@ Radar overlays or severe weather mapping
 Icon theming and forecast extensions (multi-day view)
 
 For a copy of the App in a Windows executable click here 
+
 https://drive.google.com/file/d/1xQC76TqrM1-qmq17Notxr0qCKEVVbWw9/view?usp=sharing
 
 📡 Maintainer
